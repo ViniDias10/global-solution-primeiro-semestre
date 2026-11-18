@@ -86,7 +86,7 @@ Ao iniciar, o sistema realiza a auditoria automática do registro `013`, testa o
 
 ## 🎥 Vídeo de Apresentação
 
-* **Link do YouTube (Não Listado):** []
+* **Link do YouTube:** [https://youtu.be/qNyWZ1XqoIY]
 
 ---
 
